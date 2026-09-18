@@ -19,7 +19,7 @@ extra_css = ["stylesheets/extra.css"]
 
 [project.theme]
 # variant = "classic"
-# custom_dir = "overrides"
+custom_dir = "custom_theme"
 # favicon = "images/favicon.png"
 language = "en"
 features = [
