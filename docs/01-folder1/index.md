@@ -7,5 +7,9 @@ tags:
 
 ## Introduction
 
+Here is some $Ma^th=$
+
+$$A^2=B^2$$
+
 ## Other Resources
 
