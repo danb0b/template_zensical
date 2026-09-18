@@ -11,5 +11,7 @@ Here is some $Ma^th=$
 
 $$A^2=B^2$$
 
+Here is an image: ![logo](/static/logo.png)
+
 ## Other Resources
 
